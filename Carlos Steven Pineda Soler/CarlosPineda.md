@@ -1,5 +1,5 @@
 # Carlos Steven Pineda Soler
-![Foto de Carlos Pineda](/Foto.jpeg) 
+![Foto de Carlos Pineda](CarlosStevenPinedaSoler/Foto.jpeg) 
 
 ## Rol en la Industria 🎓
 Systems Designer / Repository manager
@@ -16,5 +16,5 @@ Soy un estudiante de Ingeniería Multimedia con una sólida formación técnica 
 - **Actividad Preferida**: Cine 🎬
 
 ## Fotografía del Plato Favorito 📸
-![Foto del plato favorito](/hamburgesa.jpg)
-![Foto del plato favorito](/hamburguesa1.gif)
+![Foto del plato favorito](CarlosStevenPinedaSoler/hamburgesa.jpg)
+![Foto del plato favorito](CarlosStevenPinedaSoler/hamburguesa1.gif)
