@@ -1,7 +1,7 @@
 # Carlos Steven Pineda Soler
 
 ## Rol en la Industria 🎓
-Systems Designer
+Systems Designer / Repository manager
 
 ## Ubicación 📍
 Zona Centro Boyacá - ZCBOY / Duitama.
