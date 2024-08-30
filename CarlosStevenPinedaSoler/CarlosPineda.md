@@ -1,5 +1,5 @@
 # Carlos Steven Pineda Soler
-![Foto de Carlos Pineda](Carlos%20Steven%20Pineda%20Soler/Foto.jpeg)
+![Foto de Carlos Pineda](CarlosStevenPinedaSoler/Foto.jpeg)
 
 ## Rol en la Industria 🎓
 Systems Designer / Repository manager
