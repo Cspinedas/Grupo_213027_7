@@ -29,7 +29,7 @@ Somos **Grupo_213027_7**, un equipo de estudiantes de Ingeniería Multimedia en 
 ---
 
 #### Carlos Steven Pineda Soler
-**Rol:** Systems Designer
+**Rol:** Systems Designer / Repository manager
 
 ---
 

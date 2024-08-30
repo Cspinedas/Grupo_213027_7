@@ -29,8 +29,8 @@ un nuevo mundo gradioso lleno de nuevas oportunidades
 
 ## Fotografia de Plato Favorito
 
-![Pizza "Imagen Creada por wixin_56k"](/Fotos/Pizza1.jpg)  
-![Pizza "Imagen Creada por deeznutz1"](/Fotos/Pizza2.png)
+![Pizza ,Imagen Creada por wixin_56k](Fotos/Pizza1.jpg)  
+![Pizza ,Imagen Creada por deeznutz1](Fotos/Pizza2.png)
 
 ***
 
