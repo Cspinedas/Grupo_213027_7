@@ -1,5 +1,5 @@
 # Jose David Bohorquez Perez
-![foto de Jose David Bohorquez Perez](Jose/David/Bohorquez/Perez/foto.jpeg)
+<img src="/Jose%20David%20Bohorquez%20Perez/foto.jpeg" alt="Foto de Carlos Pineda" width="300"/>
 
 ## ubicacion
 Colombia/Sogamoso-Boyaca
@@ -18,8 +18,5 @@ IA programmer/programador-de-IA
 + **pasatiempos**:conducir-auto-y-jugar-videjuegos
 
 ## Fotografia de la comida preferida
-![foto comida 1](Jose/David/Bohorquez/Perez/hamburguesa.jpg)
-![foto comida 2](Jose/David/Bohorquez/Perez/pizza.jfif)
-
-
-
+<img src="/Jose%20David%20Bohorquez%20Perez/hamburguesa.jpg" alt="Foto de Carlos Pineda" width="300"/>
+<img src="/Jose%20David%20Bohorquez%20Perez/pizza.jfif" alt="Foto de Carlos Pineda" width="300"/>
