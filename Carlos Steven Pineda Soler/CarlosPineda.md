@@ -1,7 +1,8 @@
 # Carlos Steven Pineda Soler
+<img src="/Carlos%20Steven%20Pineda%20Soler/foto.jpeg" alt="Foto de Carlos Pineda" width="300"/>
 
 ## Rol en la Industria 🎓
-Systems Designer
+Systems Designer / Repository manager
 
 ## Ubicación 📍
 Zona Centro Boyacá - ZCBOY / Duitama.
@@ -15,5 +16,5 @@ Soy un estudiante de Ingeniería Multimedia con una sólida formación técnica 
 - **Actividad Preferida**: Cine 🎬
 
 ## Fotografía del Plato Favorito 📸
-
-
+<img src="/Carlos%20Steven%20Pineda%20Soler/hamburguesa1.gif" alt="Foto de Carlos Pineda" width="300"/>
+<img src="/Carlos%20Steven%20Pineda%20Soler/hamburguesa.jpg" alt="Foto de Carlos Pineda" width="300"/>
