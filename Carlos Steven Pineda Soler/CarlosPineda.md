@@ -16,5 +16,5 @@ Soy un estudiante de Ingeniería Multimedia con una sólida formación técnica 
 - **Actividad Preferida**: Cine 🎬
 
 ## Fotografía del Plato Favorito 📸
-![Foto del plato favorito](Carlos%20Steven%20Pineda%20Soler/hamburgesa.jpg)
-![Foto del plato favorito](Carlos%20Steven%20Pineda%20Soler/hamburguesa1.gif)
+![Foto del plato favorito](/Carlos%20Steven%20Pineda%20Soler/hamburgesa.jpg)
+![Foto del plato favorito](/Carlos%20Steven%20Pineda%20Soler/hamburguesa1.gif)
