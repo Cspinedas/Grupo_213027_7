@@ -1,5 +1,5 @@
 # Juan Fernando Guio Alzate
-<img src="./MI FOTO.jpeg"/>
+<img src="./MI FOTO.jpeg" alt="Foto de perfil de Juan Guio" width="300"/>
 
 ## Rol en la Industria 
 Level Designer
@@ -16,4 +16,4 @@ Soy un estudiante de Ingenieria Multimedia, me gustan los videojuegos, la razon 
 - **Pasatiempos**: Jugar videojuegos, ver peliculas y series y el Gym
 
 ## Fotografia del Plato Favorito 
-<img src="./CHOCOLATE.jpg"/>
+<img src="./CHOCOLATE.jpg" alt="Foto de un chocolate" width="300"/>
