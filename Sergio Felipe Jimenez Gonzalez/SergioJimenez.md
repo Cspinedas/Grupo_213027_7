@@ -16,7 +16,7 @@ Soy actual estudiante de Ingenieria Multimedia con un gran gusto por los videoju
 - **Actividad Favorita**: Jugar videojuegos
 
 ## Fotografía del Plato Favorito 
-<img src="Sergio%Felipe%Jimenez%Gonzalez/Hamburguesa.jpg" alt="Foto personal Sergio" width="300"/>
+<img src="./Hamburguesa.jpg" alt="Foto de perfil de Sergio" width="300"/>
 
 
 
